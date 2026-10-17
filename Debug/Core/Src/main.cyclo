@@ -1,0 +1,7 @@
+../Core/Src/main.c:86:6:delay	2
+../Core/Src/main.c:92:6:gpio_set_mode	1
+../Core/Src/main.c:102:6:gpio_set_pull	1
+../Core/Src/main.c:113:6:gpio_write	2
+../Core/Src/main.c:118:6:gpio_read	1
+../Core/Src/main.c:126:6:gpio_toggle	1
+../Core/Src/main.c:135:5:main	2

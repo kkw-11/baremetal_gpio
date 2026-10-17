@@ -1,0 +1,7 @@
+../Core/Src/main.c:86:6:delay	16	static
+../Core/Src/main.c:92:6:gpio_set_mode	24	static
+../Core/Src/main.c:102:6:gpio_set_pull	24	static
+../Core/Src/main.c:113:6:gpio_write	16	static
+../Core/Src/main.c:118:6:gpio_read	16	static
+../Core/Src/main.c:126:6:gpio_toggle	24	static
+../Core/Src/main.c:135:5:main	8	static
