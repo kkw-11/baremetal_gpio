@@ -100,4 +100,4 @@ if 문이 판단 → LED 켜기
 - [ ] 버튼 한 번 누를 때마다 LED 토글 (엣지 검출 + 디바운싱)
 - [ ] EXTI 인터럽트 방식으로 변경
 - [ ] SysTick으로 정확한 delay 구현
-- [V] HAL driver를 사용한 MX_GPIO_Init() 함수 분석(https://github.com/kkw-11/baremetal_gpio/wiki/HAL-driver%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-MX_GPIO_Init()-%ED%95%A8%EC%88%98-%EB%B6%84%EC%84%9D)
+- [X] HAL driver를 사용한 MX_GPIO_Init() 함수 분석(https://github.com/kkw-11/baremetal_gpio/wiki/HAL-driver%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-MX_GPIO_Init()-%ED%95%A8%EC%88%98-%EB%B6%84%EC%84%9D)
